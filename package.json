@@ -1,5 +1,5 @@
 {
-  "name": "@oktayibis/mobven-base",
+  "name": "@mobven/base",
   "version": "1.0.2",
   "description": "Mobven Front End Base Project",
   "main": "dist/main.js",
@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oktay-ibis/mb-base"
+    "url": "git+https://github.com/oktay-ibis/mb-base"
   },
   "author": {
-    "name": "oktayibis",
+    "name": "mobven",
     "email": "oktay.ibis@mobven.com",
     "url": "https://www.mobven.com"
   }
