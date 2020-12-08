@@ -4,7 +4,7 @@
   "description": "Mobven Front End Base Project",
   "main": "dist/main.js",
   "scripts": {
-    "start": "webpack --config=build/webpack.config.js"
+    "build": "webpack --config=build/webpack.config.js"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
@@ -22,5 +22,9 @@
     "axios": "^0.21.0",
     "vue": "^2.6.12",
     "vue-router": "^3.4.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
   }
 }
