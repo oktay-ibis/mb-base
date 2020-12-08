@@ -7,7 +7,7 @@
 
 ## Installation
 
-    npm install mb-base
+    npm i @oktayibis/mobven-base
     
 ## Build
 
