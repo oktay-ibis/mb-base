@@ -1,25 +1,24 @@
 {
   "name": "@oktayibis/mobven-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mobven Front End Base Project",
   "main": "dist/main.js",
   "scripts": {
     "build": "webpack --config=build/webpack.config.js"
   },
-  "devDependencies": {
+  "license": "MIT",
+  "dependencies": {
     "@babel/core": "^7.12.3",
     "@storybook/vue": "^6.0.28",
     "babel-loader": "^8.2.1",
+    "node-sass": "^5.0.0",
     "sass-loader": "^10.1.0",
     "vue-loader": "^15.9.5",
     "vue-template-compiler": "^2.6.12",
     "webpack": "^4.41.2",
     "webpack-cli": "^4.2.0",
-    "node-sass": "^5.0.0"
-  },
-  "license": "MIT",
-  "dependencies": {
     "axios": "^0.21.0",
+    "sass": "^1.30.0",
     "vue": "^2.6.12",
     "vue-router": "^3.4.9"
   },
