@@ -1,6 +1,6 @@
 {
-  "name": "@mobven/base",
-  "version": "1.0.0",
+  "name": "@oktayibis/mobven-base",
+  "version": "1.0.1",
   "description": "Mobven Front End Base Project",
   "main": "dist/main.js",
   "scripts": {
